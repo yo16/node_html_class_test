@@ -10,6 +10,7 @@ module.exports = {
         // 出力先
         path: path.join(__dirname, "dist", "assets"),
         // 出力ファイル名
-        filename: "sample_node_module_add.js"
+        filename: "sample_node_module_add.js",
+        libraryTarget: "umd"
     }
 }

@@ -4,4 +4,4 @@ function my_add(a, b) {
 }
 
 // export
-module.exports = my_add;
+module.exports.my_add = my_add;
