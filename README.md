@@ -1,0 +1,2 @@
+# node_html_class_test
+Node.jsでクラスを作って、それをBabelでEJSにコンパイルして、HTML上のJavaScriptで使えそうな気がするので確認と方法の確立
