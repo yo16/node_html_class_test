@@ -1,0 +1,17 @@
+{
+  "name": "node_module_src",
+  "version": "1.0.0",
+  "description": "aとbを足すNodeモジュール",
+  "main": "index.js",
+  "scripts": {
+    "debug": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
